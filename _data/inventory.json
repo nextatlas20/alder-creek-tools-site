@@ -1,3 +1,8 @@
 [
-  {"tool_id": "TS-095", "name": "Scroll Saw", "category": "Woodworking", "daily_fee_usd": 7}
+  {"tool_id": "TS-118", "name": "Extension Ladder (24 ft)", "category": "Access", "daily_fee_usd": 12},
+  {"tool_id": "TS-112", "name": "Tile Wet Saw", "category": "Masonry", "daily_fee_usd": 18},
+  {"tool_id": "TS-121", "name": "Pressure Washer", "category": "Outdoor", "daily_fee_usd": 15},
+  {"tool_id": "TS-101", "name": "Cordless Drill Kit", "category": "Power tools", "daily_fee_usd": 9},
+  {"tool_id": "TS-104", "name": "Random Orbital Sander", "category": "Power tools", "daily_fee_usd": 8},
+  {"tool_id": "TS-127", "name": "Sewing Machine", "category": "Textiles", "daily_fee_usd": 6}
 ]
